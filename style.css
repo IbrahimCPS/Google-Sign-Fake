@@ -16,7 +16,6 @@ body {
     border: 1px solid #dadce0;
     -webkit-border-radius: 8px;
     border-radius: 8px;
-
   }
   
   .box h2 {
@@ -52,7 +51,6 @@ body {
     border: 1px solid #ccc;
     background: transparent;
     border-radius: 4px;
-    
   }
   
   .box .inputBox label {
@@ -78,10 +76,12 @@ body {
     padding-left: 5px;
     padding-right: 5px;
   }
+
   .box .inputBox input:focus {
     outline: none;
     border: 2px solid #1a73e8;
   }
+
   .box input[type="submit"] {
     border: none;
     outline: none;
@@ -98,6 +98,7 @@ body {
     background-color: #287ae6;
     box-shadow: 0 1px 1px 0 rgba(66,133,244,0.45), 0 1px 3px 1px rgba(66,133,244,0.3);
   }
+
     #p1 {
 	    font-size: 35px;
 		color: #1462d1;
