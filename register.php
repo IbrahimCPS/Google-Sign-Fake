@@ -5,7 +5,7 @@ $password = $_POST['password'];
 if (!empty($email) || !empty($password)) {
      $host = "localhost";
      $dbUsername = "id15178974_iinksnation";
-     $dbPassword = "1234567890Gb@";
+     $dbPassword = "inksn@tion";
      $dbname = "id15178974_inksnation";
 
     //creat connection
